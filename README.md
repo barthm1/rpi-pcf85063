@@ -18,6 +18,7 @@ in /boot/config.txt. After that check with i2cdetect -y 10 if the port is 0x51 a
 
 
 The following functions are implemented:
+
 reset
 
 setTime
